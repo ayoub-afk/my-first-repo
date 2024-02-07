@@ -1,0 +1,114 @@
+    1  ls
+    2  cd Desktop/
+    3  ls
+    4  cd Coursera/
+    5  ls
+    6  cd new
+    7  ls
+    8  touch test.js
+    9  ls
+   10  code test.js 
+   11  cd ~
+   12  ls
+   13  sudo 
+   14  vim test.b
+   15  cd ~
+   16  ls -la
+   17  less .bashrc
+   18  less .bash-
+   19  _
+   20  _
+   21  less .bash_history
+   22  less .profile
+   23  vim testshell.sh
+   24  vim testshell.sh
+   25  ls - la
+   26  ls -la
+   27  ./testshell.sh 
+   28  clweaR
+   29  clear
+   30  pwd
+   31  cd ../
+   32  cd /
+   33  pwd
+   34  ls
+   35  ls -l
+   36  cd /
+   37  ls
+   38  cd ..
+   39  ls
+   40  ls -l
+   41  pwd
+   42  cd bin
+   43  pw
+   44  pwd
+   45  ls -l
+   46  clear
+   47  cd /Desktop
+   48  ls
+   49  cd /
+   50  ls
+   51  cd usr/
+   52  ls
+   53  git version
+   54  ssh-keygen -t ed25519 -C "ayoubmessaadi9@gmail.com"
+   55  ls ~/.ssh/
+   56  cat ~/.ssh/id_ed25519.pub | clip
+   57  wpd
+   58  wpd
+   59  cpwd
+   60  pwd
+   61  ls
+   62  ls -l
+   63  cd Desktop/
+   64  ls
+   65  cd Coursera/
+   66  ls
+   67  cd 'course 3 Version Control'/
+   68  ls
+   69  cd 'module 3'/
+   70  ls
+   71  mkdir projects
+   72  ls
+   73  cd projects/
+   74  git clone https://github.com/ayoub-afk/my-first-repo.git
+   75  ls -l
+   76  cd my-first-repo/
+   77  ls -l
+   78  ls -la
+   79  git status
+   80  pwd
+   81  touch test.txt
+   82  git status
+   83  git add test.txt 
+   84  git status
+   85  git restore --staged test.txt 
+   86  git status
+   87  git add test.txt 
+   88  git staus
+   89  git status 
+   90  clear
+   91  git commit -m "adding a new file for testint"
+   92  git config --global user.email "ayoubmessaadi9@gmail.com"
+   93  git commit -m "adding a new file for testint"
+   94  git status
+   95  git checkout -B feature/lesson
+   96  git branch
+   97  touch test2.txt
+   98  git status
+   99  git add test2.txt 
+  100  git status
+  101  git commit -m "add test2.txt"
+  102  git status
+  103  git push -u origin feature/lesson 
+  104  git push -u origin feature/lesson 
+  105  git push -u origin feature/lesson 
+  106  git status
+  107  git checkout main
+  108  git stsus
+  109  git status
+  110  git pull
+  111  git status
+  112  ls
+  113  history
+  114  history > commands.txt
